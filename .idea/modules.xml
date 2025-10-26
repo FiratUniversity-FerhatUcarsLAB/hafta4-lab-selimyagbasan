@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeometrikHesap/GeometrikHesap.iml" filepath="$PROJECT_DIR$/GeometrikHesap/GeometrikHesap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaasHesap/MaasHesap.iml" filepath="$PROJECT_DIR$/MaasHesap/MaasHesap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgi/OgrenciBilgi.iml" filepath="$PROJECT_DIR$/OgrenciBilgi/OgrenciBilgi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hafta4-lab-selimyagbasan.iml" filepath="$PROJECT_DIR$/.idea/hafta4-lab-selimyagbasan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/untitled.iml" filepath="$PROJECT_DIR$/src/untitled.iml" />
     </modules>
   </component>
 </project>
